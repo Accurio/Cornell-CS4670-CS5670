@@ -8,6 +8,6 @@ Cornell CS4670/CS5670: Introduction to Computer Vision
 
 ### Demo
 
-![Feature Matching Demo](/Project%202/MatchingDemo.png "Feature Matching Demo")
+![Feature Matching Demo](/Project%202/demo/MatchingDemo.png "Feature Matching Demo")
 
-![ROC Demo](/Project%202/ROCDemo.png "ROC Demo")
+![ROC Demo](/Project%202/demo/ROCDemo.png "ROC Demo")
